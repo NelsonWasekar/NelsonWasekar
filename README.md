@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Nelson Wasekar
 
-🎯 **Machine Learning Engineer | LLM Enthusiast**
+🎯 **Machine Learning Engineer | LLM Enthusiast |**
 
-Welcome to my GitHub profile! I specialize in building data-driven solutions using machine learning, statistical modeling, and cloud-based MLOps. With a strong foundation in Python, predictive modeling, and real-world deployment, I’m passionate about solving impactful problems and continuously learning new technologies.
+Welcome to my GitHub! I'm a results-driven Machine Learning Engineer with 4+ years of industry experience designing, deploying, and optimizing ML pipelines across various domains like Supply Chain, Manufacturing, and Retail Analytics.
+
+My expertise lies in developing predictive systems using clustering, classification, and time-series models, cloud integration (Azure), and production-scale orchestration.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠️ Technical Skills
 
-- **Languages**: Python,   
-- **ML & Data Science**: Scikit-learn, Linear Regression, Logistic Regression, XGBoost, PyTorch, NLTK  
-- **Python's Library**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn 
-- **Cloud & DevOps**: Azure, Docker, Git, CI/CD  
-- **Deployment**: Rest API, Streamlit, Flask  
-- **Databases**: MySQL, PostgreSQL
+- **Languages**: Python, SQL  
+- **ML & AI**: Random Forest, SVM, K-means, GMM, NMF, ARIMA, SARIMAX  
+- **Tools**: Scikit-learn, PySpark, Streamlit, HyperScience OCR, Databricks  
+- **Cloud & MLOps**: Azure ML, Azure Functions, Event Hub, Service Bus  
+- **Visualization**: Matplotlib, Seaborn, Power BI  
+- **Certifications**: Microsoft AZ-900, IBM Python for Data Science, AWS Generative AI 
 
 ---
 
