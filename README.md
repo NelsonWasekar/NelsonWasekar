@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Nelson Wasekar
 
-<!--
-**NelsonWasekar/NelsonWasekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Machine Learning Engineer | LLM Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I specialize in building data-driven solutions using machine learning, statistical modeling, and cloud-based MLOps. With a strong foundation in Python, predictive modeling, and real-world deployment, I’m passionate about solving impactful problems and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+- **Languages**: Python,   
+- **ML & Data Science**: Scikit-learn, Linear Regression, Logistic Regression, XGBoost, PyTorch, NLTK  
+- **Python's Library**: Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn 
+- **Cloud & DevOps**: Azure, Docker, Git, CI/CD  
+- **Deployment**: Rest API, Streamlit, Flask  
+- **Databases**: MySQL, PostgreSQL
+
+---
+
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nelsonwasekar)
+- 📧 Email: nelsonwasekar555@gmail.com
+
+---
